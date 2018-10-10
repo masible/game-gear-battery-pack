@@ -24,12 +24,16 @@ The Game Gear battery pack [outputs 7.4V](XXX), the Nomad Powerback [outputs 7.2
 
 After opening the battery pack with an 8-sized [pin spanner screwdriver](https://en.wikipedia.org/wiki/List_of_screw_drives#Spanner) (one screw visible, two hidden under the belt clip), we can find a pretty large circuit board, and a 6-Ni-Cd battery pack.
 
+| Battery markings |
+| --- |
 | Cylindrical enclosed nickel-cadmium storage battery |
 | Format: KR1.2SC-6E (RC04421) |
 | Nominal electric voltage: 7.2V |
 | Nominal capacity: 1200mAh |
 | Manufacturing year and month: M0991S |
 
+| Characteristic | Value |
+| --- | --- |
 | Length | 13cm |
 | Diameter | 2.3cm |
 | Weight | just shy of 300g |
@@ -50,7 +54,8 @@ Depending on where you get the 18650 batteries, and not counting the battery pac
 
 ## Conclusion
 
-TODO: Weigth, expected battery life for a Game Gear
+TODO (mention weigth, expected battery life for a Game Gear or Nomad, charge time)
+
 Possible enhancements:
 - 2P2S configuration to use up all the space inside the pack, and double the capacity
 - real USB Power Delivery charging circuit for faster charging
