@@ -14,11 +14,11 @@ October 2018: **This is a work in progress**
 
 Until I can buy a [Sega Nomad Powerback](https://segaretro.org/Nomad_PowerBack) for my Sega Nomad (or mod the console to have internal batteries), I need a way to power the portable when playing on the sofa. Using a Game Gear Battery Pack as a stop-gap solution is a good option, as it's more common and thus much cheaper and easier to find (and Sega-branded to boot).
 
-Unfortunately, those are now at least 25 to 30 years old, and the builtin NiCd cells are dead. And we can't just replace them with new NiCd cells, as those use [highly toxic Cadmium](https://en.wikipedia.org/wiki/Nickel%E2%80%93cadmium_battery#Environmental_impact), and we don't want to use a chemistry that will likely be completely forbidden in a couple of years. We also can't replace NiCd with LiPo batteries (as [this forum user naively did](XXX))! This needs a different charging circuit, otherwise we risk explosions. This [AdaFruit article](XXX) should give you the basics about rechargeable batteries.
+Unfortunately, those are now at least 25 to 30 years old, and the builtin NiCd cells are dead. And we can't just replace them with new NiCd cells, as those use [highly toxic Cadmium](https://en.wikipedia.org/wiki/Nickel%E2%80%93cadmium_battery#Environmental_impact), and we don't want to use a chemistry that will likely be completely forbidden in a couple of years. We also can't replace NiCd with LiPo batteries (as [this forum user naively did](http://segaage.com/forum/messageview.cfm?catid=50&threadid=118300))! This needs a different charging circuit, otherwise we risk explosions. This [AdaFruit article](https://learn.adafruit.com/li-ion-and-lipoly-batteries/overview) should give you the basics about rechargeable batteries.
 
 The Game Gear battery pack [outputs 7.4V](XXX), the Nomad Powerback [outputs 7.2V](https://segaretro.org/File:Nomad_Instruction_Manual_Insert_Back.JPG), and both consoles can take 9V on their power inputs. So, we could settle on a 7.4V output, a common battery voltage, as our target voltage output.
 
-**Note**: If you just want a way to power a Nomad and don't have a clip-on battery pack, maybe consider a good quality 5V USB power bank and [a USB mod](XXX), this would be much cheaper.
+**Note**: If you just want a way to power a Nomad and don't have a clip-on battery pack, maybe consider a good quality 5V USB power bank and [a USB mod](https://www.youtube.com/watch?v=wUHBbEbblZc), this would be much cheaper.
 
 ## Inside the device
 
